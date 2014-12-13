@@ -1,0 +1,13 @@
+Package: bafac
+Title: Look for patterns in my friends' usage of Facebook Chat
+Description: I find that I go on Facebook more when I'm more lonely.
+    (Unfortunately, it usually doesn't help.) I wonder whether other
+    people do the same. Moreover, it might be interesting to see when
+    people break their typical Facebook usage patterns.
+Version: 0.1
+Author: Thomas Levine <_@thomaslevine.com>
+Maintainer: Thomas Levine <_@thomaslevine.com>
+License: AGPL
+URL: https://github.com/tlevine/facebook-chat-patterns
+Imports:
+    sqldf
